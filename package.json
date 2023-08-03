@@ -21,7 +21,7 @@
   "main": "./lib/passport-tiktok/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mystery-man/passport-tiktok.git"
+    "url": "git:/github.com/mystery-man/passport-tiktok.git"
   },
   "scripts": {
     "test": "node_modules/.bin/gulp ci"
