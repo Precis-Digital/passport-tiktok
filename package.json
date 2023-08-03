@@ -1,5 +1,5 @@
 {
-  "name": "passport-tiktok-auth",
+  "name": "passport-tiktok",
   "version": "1.0.5",
   "description": "Tiktok authentication strategy for Passport.",
   "keywords": [
@@ -12,7 +12,6 @@
     "authorization",
     "identity"
   ],
-  "homepage": "https://github.com/mystery-man/passport-tiktok",
   "bugs": {
     "url": "https://github.com/mystery-man/passport-tiktok/issues"
   },
@@ -21,7 +20,7 @@
   "main": "./lib/passport-tiktok/index.js",
   "repository": {
     "type": "git",
-    "url": "git:/github.com/mystery-man/passport-tiktok.git"
+    "url": "git:/github.com/Precis-Digital/passport-tiktok.git"
   },
   "scripts": {
     "test": "node_modules/.bin/gulp ci"

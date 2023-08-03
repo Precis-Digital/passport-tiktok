@@ -2733,9 +2733,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"passport-tiktok-auth@workspace:.":
+"passport-tiktok@workspace:.":
   version: 0.0.0-use.local
-  resolution: "passport-tiktok-auth@workspace:."
+  resolution: "passport-tiktok@workspace:."
   dependencies:
     chai: 3.5.x
     chalk: 1.1.x
